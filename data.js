@@ -654,9 +654,21 @@ const sitesData = {
             description: "AI prompt'ları için kapsamlı kütüphane ve koleksiyon.",
             url: "https://promptly.fyi/library",
             tags: ["ai", "prompts", "library"]
+        },
+        {
+            title: "LLAMA CODER",
+            description: "Ücretsiz açık kaynaklı AI.",
+            url: "https://llamacoder.together.ai/chats/Tr9ecfvmU7db4THf",
+            tags: ["ai", "prompts"]
         }
     ],
     "github": [
+        {
+            title: "LlamaCoder",
+            description: "Llama 3.1 405B ile güçlendirilmiş açık kaynak Claude Artifacts - tek prompt ile küçük uygulamalar oluşturun.",
+            url: "https://github.com/Nutlope/llamacoder",
+            tags: ["ai", "open-source", "llama", "code-generation", "claude-artifacts"]
+        }
     ],
     "fun": [
     ],
