@@ -668,7 +668,19 @@ const sitesData = {
             description: "Llama 3.1 405B ile güçlendirilmiş açık kaynak Claude Artifacts - tek prompt ile küçük uygulamalar oluşturun.",
             url: "https://github.com/Nutlope/llamacoder",
             tags: ["ai", "open-source", "llama", "code-generation", "claude-artifacts"]
-        }
+        },
+        {
+            title: "TheAlgorithms/Python",
+            description: "Python'da algoritma bilgilerini geliştirmene yardımcı olur.",
+            url: "https://github.com/TheAlgorithms/Python",
+            tags: ["Python"]
+        },
+        {
+            title: "Public APIs",
+            description: "Projelerinde kullanabileceğin apiler.",
+            url: "https://github.com/public-apis/public-apis",
+            tags: ["API"]
+        },
     ],
     "fun": [
     ],
