@@ -660,6 +660,12 @@ const sitesData = {
             description: "Ücretsiz açık kaynaklı AI.",
             url: "https://llamacoder.together.ai/chats/Tr9ecfvmU7db4THf",
             tags: ["ai", "prompts"]
+        },
+        {
+            title: "KIMI AI",
+            description: "Ücretsiz AI.",
+            url: "https://kimi.com",
+            tags: ["ai", "prompts"]
         }
     ],
     "github": [
@@ -681,6 +687,12 @@ const sitesData = {
             url: "https://github.com/public-apis/public-apis",
             tags: ["API"]
         },
+        {
+            title: "Cross Code",
+            description: "Windows/linux 'ta Swift ile IOS uygulama geliştirmene yarar",
+            url: "https://github.com/nab138/CrossCode",
+            tags: ["Code"]
+        }
     ],
     "fun": [
     ],
