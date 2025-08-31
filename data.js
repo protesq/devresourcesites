@@ -692,6 +692,12 @@ const sitesData = {
             description: "Windows/linux 'ta Swift ile IOS uygulama geliştirmene yarar",
             url: "https://github.com/nab138/CrossCode",
             tags: ["Code"]
+        },
+        {
+            title: "90DaysOfCyberSecurity",
+            description: "90 Günde Siber güvenlik öğren",
+            url: "https://github.com/farhanashrafdev/90DaysOfCyberSecurity",
+            tags: ["Cyber Security"]
         }
     ],
     "fun": [
